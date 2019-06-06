@@ -9,9 +9,9 @@ Jupyter Notebooks:
 	Style-Transfer-TensorFlow.ipynb: Implements neural style transfer using TensorFlow as described here - https://www.tensorflow.org/alpha/tutorials/generative/style_transfer
 
 
-Folder /styles contains sample style files
+Directory /styles contains sample style files
 
+Directory /sample-images contains few sample images to test style-transfer
 
-Folder /styled-output contains output of style-transfer on sample images: test-image-1.jpg & test-image-2.jpg
-
+Directory /styled-output contains output of style-transfer on sample images
 

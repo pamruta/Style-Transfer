@@ -8,6 +8,7 @@ Jupyter Notebooks:
 
 	Style-Transfer-TensorFlow.ipynb: Implements neural style transfer using TensorFlow as described here - https://www.tensorflow.org/alpha/tutorials/generative/style_transfer
 
+	Output-Visualization.ipynb: Creates visualization of style transfer output in grid format, using MatPlotLib and PyPlot
 
 Directory /styles contains sample style files
 

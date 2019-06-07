@@ -10,6 +10,8 @@ Jupyter Notebooks:
 
 	Output-Visualization.ipynb: Creates visualization of style transfer output in grid format, using MatPlotLib and PyPlot
 
+	Note: some of the notebooks may be too large in size to open in browser..
+
 Directory /styles contains sample style files
 
 Directory /sample-images contains few sample images to test style-transfer

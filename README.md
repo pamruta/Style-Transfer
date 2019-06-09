@@ -5,8 +5,9 @@ Jupyter Notebooks:
 
 	Style-Transfer-Keras.ipynb: Implements neural style transfer using Keras as described here - https://keras.io/examples/neural_style_transfer/
 
-
 	Style-Transfer-TensorFlow.ipynb: Implements neural style transfer using TensorFlow as described here - https://www.tensorflow.org/alpha/tutorials/generative/style_transfer
+
+	Style-Transfer-PyTorch.ipynb: PyTorch implementation as described here at - https://pytorch.org/tutorials/advanced/neural_style_tutorial.html
 
 	Output-Visualization.ipynb: Creates visualization of style transfer output in grid format, using MatPlotLib and PyPlot
 

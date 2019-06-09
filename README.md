@@ -9,6 +9,10 @@ Jupyter Notebooks:
 
 	Style-Transfer-PyTorch.ipynb: PyTorch implementation as described here at - https://pytorch.org/tutorials/advanced/neural_style_tutorial.html
 
+	Note: PyTorch implementation requires that both content and style files have same dimensions.. 
+
+	Directory ./pytorch contains few sample content and style files resized for PyTorch as well as the outputs generated on those..
+
 	Output-Visualization.ipynb: Creates visualization of style transfer output in grid format, using MatPlotLib and PyPlot
 
 	Note: some of the notebooks may be too large in size to open in browser..

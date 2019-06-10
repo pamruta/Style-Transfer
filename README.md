@@ -15,6 +15,8 @@ Jupyter Notebooks:
 
 	Note: some of the notebooks may be too large in size to open in browser..
 
+Python scripts to run style-transfer using Keras and PyTorch are available in directory ./python-scripts
+
 Directory /styles contains sample style files
 
 Directory /sample-images contains few sample images to test style-transfer
